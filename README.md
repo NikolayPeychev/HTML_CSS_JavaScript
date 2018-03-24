@@ -1,2 +1,2 @@
-# HTML/Css/JavaScript
+# HTML/CSS/JavaScript
 HTML/CSS/JavaScript Projects
