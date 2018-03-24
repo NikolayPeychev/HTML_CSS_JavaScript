@@ -1,0 +1,2147 @@
+/*HOME PAGE*/
+#top0{
+    float: left;
+    text-align: right;
+    background-color: #f2f2f2;
+}
+#text1{
+    padding: 5px;
+    color: grey;
+}
+#top1{
+    float:left;
+    background-color: #f2f2f2;
+    padding: 5px;
+    text-align: center;
+}
+#ul1{
+    list-style: none;
+
+}
+#ul1 li{
+    list-style: none;
+    display: inline;
+    padding: 10px;
+}
+#ul1 li a{
+    color: grey;
+}
+#logo1{
+    text-align: right;
+    float: left;
+    padding: 10px;
+}
+#home_icon{
+    float: left;
+    color: grey;
+    padding: 10px;
+    margin:20px;
+    border-right: 1px solid lightgrey;
+}
+#home_icon:hover{
+    color:black;
+}
+#list2 li{
+    display: inline;
+    padding: 10px;
+    
+}
+#list2 li a{
+    color: grey;
+}
+#nav2{
+    float: left;
+    padding: 40px;
+    font-size: 18px;
+}
+#request{
+    float: left;
+    background-color: #edac15;
+    width:250px;
+    height: 80px;
+    padding: 30px;
+    margin: 15px;
+    font-size: 18px;
+    text-align: center;
+    box-shadow: 1px 1px 5px #888888;
+    border-style: groove;
+    border-width: 1px;
+    border-color: lightgrey;
+}
+#request:hover{
+    background-color: #be890e;
+}
+    #request_text{
+        color: white;
+    }
+
+  #menu{
+    float: left;
+    background-color: #edac15;
+    width:150px;
+    height: 60px;
+    padding: 20px;
+    margin: 15px;
+    font-size: 18px;
+    text-align: center;
+    box-shadow: 1px 1px 5px #888888;
+    border-style: groove;
+    border-width: 1px;
+    border-color: lightgrey;
+  }
+#menu_text{
+    text-align: center;
+    color: white;
+}
+#img_slider{
+    padding: 0px;
+    width: auto;
+    position: relative;
+}
+#settings{
+    position: fixed;
+    top: 300px;
+    background-color:#3485b1;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+}
+#cogs{
+    color: white;
+}
+.text{
+    position: absolute;
+    bottom: 500px;
+    left: 120px;
+    width: 500px;
+    margin:10px;
+}
+#h1{
+    color:white;
+}
+#p1{
+    font-size:21px;
+    color: white;
+  }
+.read_more{
+      float: left;
+      background-color: orange;
+      width: 200px;
+      height: 80px;
+      text-align: center;
+      border: 1px solid black;
+}
+ 
+  #read:hover{
+     background-color: #be890e;
+  }
+  .read_more a{
+      position: relative;
+      top: 30px;
+      color: white;
+      font-size: 20px; 
+  }
+  .our_services {
+      position: absolute;
+      top: 208px;
+      left: 250px;
+      background-color: white;
+      width: 200px;
+      height: 80px;
+      text-align: center;
+      border: 1px solid black;
+  }
+  .our_services a{
+      position: relative;
+      top: 30px;
+      color: black;
+      font-size: 20px;
+  }
+  .our_services:hover{
+      background-color: lightgrey;
+  }
+ #request2{
+     background-color:#f2f2f2;
+     float: left;
+     margin: 18px;
+ }
+ #request_text2{
+     color: grey;
+     font-size: 12px;
+     text-align: center;
+     padding: 10px;
+     margin: 10px;
+ }
+
+
+#container12{
+    position: absolute;
+    top: 540px;
+    left: -130px;
+    background: linear-gradient(transparent, black);
+    text-align: right;
+    width: 600px;
+    height: 100px;
+    border-style: solid;
+    border-width: 0.1px;
+    border-color: lightslategrey;
+    border-bottom: none;
+    
+}
+ .fa-angle-left{
+     color: white;
+ }
+ .fa-angle-right{
+     color: white;
+ }
+ #container22{
+    position: absolute;
+    left: 598px;
+    top:-1px; 
+    background: linear-gradient(transparent, black);
+    text-align: left;
+    width:300px;
+    height: 100px;
+    border-style: solid;
+    border-width: 0.1px;
+    border-color: lightslategrey;
+    padding: 10px;
+    border-bottom: none;
+ }
+ .fa-phone{
+     color: orange;
+ }
+ .phone_number{
+     left: 100px;
+     bottom: 50px;
+     position: relative;
+     color: lightgrey;
+ }
+.phone_digits{
+     left: 100px;
+     bottom: 60px;
+     position: relative;
+     color: white;
+     font-size:18px;
+ }
+ #container33{
+    position: absolute;
+    left: 896px;
+    top:-1px;
+    background: linear-gradient(transparent, black);
+    text-align: left;
+    width:300px;
+    height: 100px;
+    border-style: solid;
+    border-width: 0.1px;
+    border-color: lightslategrey;
+    padding: 10px;
+    border-bottom: none;
+ }
+.fa-clock-o{
+    color: orange;
+}
+ .opening_times{
+     color: lightgrey;
+     position: relative;
+     left: 100px;
+     bottom: 50px;
+ }
+ .days{
+     color: white;
+     position: relative;
+     left: 100px;
+     bottom: 60px;
+     font-size: 18px;
+ }
+  #container44{
+    position: absolute;
+    left: 1195px;
+    top: -1px;
+    background: linear-gradient(transparent, black);
+    text-align: left;
+    width:300px;
+    height: 100px;
+    border-style: solid;
+    border-width: 0.1px;
+    border-color: lightslategrey;
+    padding: 10px;
+    border-bottom: none;
+ }
+ .fa-envelope-o{
+     color: orange;
+ }
+
+ #e-mail{
+     color: lightgrey;
+     position: relative;
+     left: 100px;
+     bottom: 50px;
+ }
+  #e_address{
+     color: white;
+     position: relative;
+     left: 100px;
+     bottom: 60px;
+     font-size: 18px;
+ }
+ #container55{
+    position: absolute;
+    top: -1px;
+    left: 1495px;
+    background: linear-gradient(transparent, black);
+    text-align: left;
+    width:420px;
+    height: 100px;
+    border-style: solid;
+    border-width: 0.1px;
+    border-color: lightslategrey;
+    border-right: none;
+    border-bottom: none;
+ }
+ .fa-facebook-official{
+     color: lightgrey;
+     padding: 5px;
+ }
+     .fa-facebook-official:hover{
+         color: orange;
+         }
+ 
+ .fa-twitter-square{
+     color: lightgrey;
+     padding: 10px; 
+ }
+ .fa-twitter-square:hover{
+     color: orange;
+ }
+ .fa-youtube-square{
+     color: lightgrey;
+ }
+ .fa-youtube-square:hover{
+     color: orange;
+ }
+ 
+ #container_18{
+    position: absolute;
+    top: 900px;
+    width:350px;
+    display: block;
+    height: 450px;
+    border: none;
+}
+#location{
+    color: grey;
+    float: left;
+    text-align: left;
+    right: 300px;
+    margin-top: 20px;
+}
+#card_address{
+    color: grey;
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#border1{
+    position: absolute;
+    top:100px;
+    width: 300px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#phone2{
+    color: grey;
+    position: relative;
+    right: 200px;
+    top: 100px;
+}
+#phone_number_1{
+    position: relative;
+    top: 70px;
+    right: 165px;
+    color: grey;
+}
+#border2{
+    position: relative;
+    top: 100px;
+    width: 300px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#envelope2{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 230px;
+   
+}
+#e-mail235{
+    color: grey;
+    position: absolute;
+    left: 55px;
+    top: 235px;
+}
+#border3{
+    position: relative;
+    top: 150px;
+    width: 300px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#compass{
+    color: grey;
+    position: absolute;
+    left: 20px;
+    top: 320px;
+}
+#domain_name{
+    color: grey;
+    position: absolute;
+    left: 55px;
+    top: 320px;
+}
+#box{
+    position: absolute;
+    background-color: #f2f2f2;
+    width: 348px;
+    height:50px;
+    left: 0px;
+    bottom: 0px;
+}
+#icon1{
+    position: absolute;
+    display: inline;
+    color: grey;
+    top: 10px;
+    right: 20px;
+   
+
+}
+#icon2{
+    position: absolute;
+    display: inline;
+    color: grey;
+    top: 10px;
+    right: 50px;
+}
+#icon3{
+    position: absolute;
+    display: inline;
+    color: grey;
+    top: 0px !important;
+    right: 90px !important;
+}
+#icon4{
+    position: absolute;
+    display: inline;
+    color: grey;
+    top: 5px !important;
+    right: 140px !important;
+}
+#icon1:hover{
+    color: orange;
+}
+#icon2:hover{
+    color: orange;
+}
+#icon3:hover{
+    color: orange;
+}
+#icon4:hover{
+    color: orange;
+}
+#container222{
+    float: left;
+    margin-left: 280px;
+    margin-top: 100px;
+    width:400px;
+    height: 430px;
+    border: none;  
+}
+#some_1_img{
+    position: absolute;
+    left: 15px;
+    width: 400px !important;
+   
+}
+
+#green_building{
+    color: black;
+    float: left;
+    padding-left: 0px;
+    padding-top: 100px;
+    font-size: 20px;
+}
+
+#some_text_12{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 270px;
+}
+
+#some_text_13{
+    color: #3485b1;
+    position: absolute;
+    left: 15px;
+    top: 380px;
+   
+}
+#container223{
+    float: left;
+    margin-left: 50px;
+    margin-top: 100px;
+    width:400px;
+    height: 430px;
+    border: none;  
+}
+#some_2_img{
+    position: absolute;
+    left: 15px;
+    width: 400px !important;
+   
+}
+
+metal_roofing{
+    color: black;
+    float: left;
+    padding-left: 0px;
+    padding-top: 100px;
+    font-size: 20px;
+}
+
+#some_text_14{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 270px;
+}
+
+#some_text_13{
+    color: #3485b1;
+    position: absolute;
+    left: 15px;
+    top: 380px;
+   
+}
+#container224{
+    float: left;
+    margin-left: 50px;
+    margin-top: 100px;
+    width:400px;
+    height: 430px;
+    border: none;  
+}
+#some_2_img{
+    float: left;
+    width: auto;
+   
+}
+
+#laminate_flooring{
+    color: black;
+    float: right;
+    margin-right: 83px;
+    padding-left: 30px;
+    padding-top: 0px;
+    font-size: 18px;
+}
+
+#some_text_15{
+    color: grey;
+    float: right;
+    margin-top: 10px;
+    margin-right: 50px;
+    padding-bottom: 0px;
+}
+#container225{
+    float: left;
+    margin-left: -15px;
+    margin-top: 20px;
+    width: 400px;
+    height: 430px;
+    border: none;  
+}
+#some_3_img{
+    float: left;
+    width: auto;
+   
+}
+
+#general_contracting{
+    color: black;
+    float: right;
+    margin-right: 70px;
+    padding-left: 30px;
+    margin-top: -60px;
+    font-size: 18px;
+}
+
+#some_text_16{
+    color: grey;
+    float: right;
+    margin-top: -20px;
+    margin-right: 50px;
+}
+#container226{
+    float: left;
+    margin-left: -15px;
+    margin-top: -315px;
+    width: 400px;
+    height: 430px;
+    border: none;  
+}
+#some_4_img{
+    float: left;
+    width: auto;
+    
+}
+
+#house_renovating{
+    color: black;
+    float: right;
+    margin-right: 83px;
+    margin-top: 5px;
+    font-size: 18px;
+}
+
+#some_text_17{
+    color: grey;
+    float: right;
+    margin-top: 0px;
+    margin-right: 63px;
+}
+#container227{
+    float: left;
+    margin-left: -15px;
+    margin-top: -315px;
+    width: 400px;
+    height: 430px;
+    border: none;  
+}
+#some_5_img{
+    float: left;
+    width: auto;
+    
+}
+
+#interior_design{
+    color: black;
+    float: right;
+    margin-right: 110px;
+    margin-top: 1px;
+    font-size: 18px;
+}
+
+#some_text_18{
+    color: grey;
+    float: right;
+    margin-top: -34px;
+    margin-right: 27px;
+}
+#article_223{
+    clear: both;
+    float: left;
+    background-color: #f2f2f2;
+    width: 1000;
+    height: 400px;
+    margin-top: 50px;
+    
+
+}
+#ul_d_nav {
+    list-style: none;
+    float: left;
+    margin-top: 40px;
+    margin-left: 190px;
+   
+    
+}
+#ul_d_nav li {
+    display: inline;
+    
+}
+#ul_d_nav li a{
+    color: grey;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+}
+#border222{
+    position: relative;
+    top: 90px;
+    left: 250px;
+    width: 1250px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: lightgrey;
+}
+#angles{
+    float: left;
+    margin-left: 1440px;
+    margin-top: -60px;
+}
+#d_angle_1{
+    color: grey;
+    float: left;
+    padding: 10px;
+}
+#d_angle_2{
+    color: grey;
+    float: left;
+    padding: 10px;
+}
+#n_img_1{
+    clear: both;
+    float: left;
+    margin-top: 120px;
+    margin-left: 260px;
+    width: 300px;
+    background-color: white;
+    height: 160px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: lightgrey;
+}
+#img_d_1{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    top: -105px;
+}
+#greenhouse{
+    float: left;
+    margin-top: -90px;
+    margin-left:10px;
+    color: grey;
+    
+}
+#n_img_2{
+    float: left;
+    margin-top: 120px;
+    margin-left: 40px;
+    width: 300px;
+     background-color: white;
+    height: 160px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: lightgrey;
+    
+}
+#img_d_2{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    top: -105px;
+}
+#modernkitchen{
+    float: left;
+    margin-top: -90px;
+    margin-left: 10px;
+    color: grey;
+    
+}
+#n_img_3{
+    float: left;
+    margin-top: 120px;
+    margin-left: 40px;
+    width: 300px;
+     background-color: white;
+    height: 160px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: lightgrey;
+    
+}
+#img_d_3{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    top: -105px;
+}
+#outdoor{
+    float: left;
+    margin-top: -90px;
+    margin-left: 10px;
+    color: grey;
+    
+}
+#n_img_4{
+    float: left;
+    margin-top: 120px;
+    margin-left: 40px;
+    width: 300px;
+     background-color: white;
+    height: 160px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: lightgrey;
+    
+}
+#img_d_4{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    top: -105px;
+}
+#pool{
+    float: left;
+    margin-top: -90px;
+    margin-left: 10px;
+    color: grey;
+    
+}
+#another{
+    float: left;
+    margin-left: 270px;
+    margin-top: 20px;
+    width: 370px;
+    height:430px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightgrey;
+    text-align: right;
+    background-color: white;
+
+}
+#another_img1{
+    position: relative;
+    right: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-color: #edac15;
+    width: 367px;
+}
+#springtime{
+    float: left;
+    margin-left: 40px;
+    font-size: 18px;
+    margin-top: 10px;
+    color: black;
+}
+#springtime_1{
+    float: left;
+    margin-left: 20px;
+    color: grey;
+}
+#square_1{
+    position: absolute;
+    top: 170px;
+    left: 40px;
+    background-color: #edac15;
+    width:120px;
+    height: 25px;
+}
+#square_1_2{
+    color: white;
+    text-align: center;
+}
+#another2{
+    float: left;
+    margin-left: 70px;
+    margin-top: 20px;
+    width: 370px;
+    height:430px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightgrey;
+    text-align: right;
+    background-color: white;
+
+}
+#another_img2{
+    position: relative;
+    right: 15px;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-color: #edac15;
+    width: 367px;
+}
+#before{
+    float: left;
+    margin-right: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+    color: black;
+}
+#before_1{
+    float: left;
+    margin-left: 20px;
+    color: grey;
+}
+#square_2{
+    position: absolute;
+    top: 170px;
+    left: 40px;
+    background-color: #edac15;
+    width:120px;
+    height: 25px;
+}
+#square_2_2{
+    color: white;
+    text-align: center;
+}
+#another3{
+    float: left;
+    margin-left: 70px;
+    margin-top: 20px;
+    width: 370px;
+    height: 400px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightgrey;
+    text-align: right;
+    background-color: white;
+
+}
+
+#table1{
+    float: left;
+    margin-left: 15px;
+    padding-top: 15px;
+    font-size: 15px;
+    margin-top: 10px;
+    color: black;
+}
+#table2{
+    float: left;
+    margin-left: 20px;
+    color: grey;
+}
+#border_t_1{
+    position: relative;
+    top: 100px;
+    left:-14px;
+    width: 365px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#table3{
+    float: left;
+    margin-left: 15px;
+    padding-top: 10px;
+    font-size: 15px;
+    color: black;
+}
+#table4{
+    float: left;
+    margin-left: 20px;
+    margin-top: -20px;
+    color: grey;
+}
+#border_t_2{
+    position: relative;
+    top: 190px;
+    left:-14px;
+    width: 365px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#table5{
+    float: left;
+    margin-left: 15px;
+    padding-top: 30px;
+    font-size: 15px;
+    margin-top: 10px;
+    color: black;
+}
+#table6{
+    float: left;
+    margin-left: 20px;
+    color: grey;
+}
+#border_t_4{
+    position: relative;
+    top: 320px;
+    left:-14px;
+    width: 365px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#table7{
+    float: left;
+    margin-left: -80px;
+    padding-top: 75px;
+    font-size: 15px;
+    margin-top: 10px;
+    color: #3485b1;
+}
+#table8{
+    float: right;
+    margin-top: 80px;
+    color: #3485b1;
+    font-size: 24px;
+}
+#something_aside{
+    margin-top: 120px;
+    text-align: center;
+}
+#aside_p_1{
+    color: grey;
+    font-size: 20px;
+    margin-left: 230px;
+}
+#aside_p_2{
+    color: grey;
+    font-size: 16px;
+    margin-left: 120px;
+}
+
+.contact_us_2{
+      float: left;
+      margin-right: 15px;
+      margin-top: 120px;
+      margin-left: 300px;
+      background-color: orange;
+      width: 160px;
+      height: 60px;
+      text-align: center;
+      border: 1px solid black;
+}
+ 
+  #read2:hover{
+     background-color: #be890e;
+  }
+  .contact_us_2 a{
+      position: relative;
+      top: 20px;
+      color: white;
+      font-size: 16px; 
+  }
+  .read_more_2 {
+      float: left;
+      margin-top: 120px;
+      background-color: white;
+      width: 160px;
+      height: 60px;
+      text-align: center;
+      border: 1px solid grey;
+  }
+  .read_more_2 a{
+      position: relative;
+      top: 20px;
+      color: grey;
+      font-size: 16px;
+  }
+  .read_more_2:hover{
+      background-color: lightgrey;
+  }
+#signature{
+    float: left;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ /*Contacts page*/
+#background{
+    float:left;
+    padding: 0px;
+    
+}
+#contact_us{
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+    font-size: 20px;
+    color: black;
+}
+#contact_{
+    font-size: 28px;
+}
+#some_{
+   position: relative;
+   left: 10px;
+   bottom: 50px;
+      
+}
+#some_ a{
+    color: #333333;
+    font-size:18px;
+}
+
+#some_2{
+    display: inline;
+    color: lightgrey;
+}
+#map{
+    clear: both;
+}
+#logo12{
+    float: left;
+    padding:60px;
+    text-align: right;
+}
+#i_text{
+    float: left;
+    width: 300px;
+    height: 50px;
+    margin: 30px;
+    background-color: #f2f2f2;
+    border-style: solid;
+    border-width:1px;
+    border-color: lightgrey;
+    padding: 20px;
+}
+#i_text2{
+    float: left;
+    width: 300px;
+    height: 50px;
+    margin: 30px;
+    background-color: #f2f2f2;
+    border-style: solid;
+    border-width:1px;
+    border-color: lightgrey;
+    padding: 20px;
+}
+#i_text3{
+    float: left;
+    width: 300px;
+    height: 50px;
+    margin: 30px;
+    background-color: #f2f2f2;
+    border-style: solid;
+    border-width:1px;
+    border-color: lightgrey;
+    padding: 20px;
+}
+#i_text4{
+    float: left;
+    width: 300px;
+    height: 50px;
+    margin: 30px;
+    background-color: #f2f2f2;
+    border-style: solid;
+    border-width:1px;
+    border-color: lightgrey;
+    padding: 20px;
+}
+#container1{
+    float: left;
+    margin-left: 270px;
+    margin-top: 0px;
+    width:350px;
+    height: 450px;
+    border-top-style: solid;
+    border-top-width: 4px;
+    border-top-color: #edac15;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-left-color: lightgrey;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: lightgrey;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color: #f2f2f2;  
+}
+#location{
+    color: grey;
+    float: left;
+    text-align: left;
+    right: 300px;
+    margin-top: 20px;
+}
+#card_address{
+    color: grey;
+    float: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#border1{
+    position: absolute;
+    top:100px;
+    width: 300px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#phone2{
+    color: grey;
+    position: relative;
+    right: 200px;
+    top: 100px;
+}
+#phone_number_1{
+    position: relative;
+    top: 70px;
+    right: 165px;
+    color: grey;
+}
+#border2{
+    position: relative;
+    top: 100px;
+    width: 300px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#envelope2{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 230px;
+   
+}
+#e-mail235{
+    color: grey;
+    position: absolute;
+    left: 55px;
+    top: 235px;
+}
+#border3{
+    position: relative;
+    top: 150px;
+    width: 300px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#compass{
+    color: grey;
+    position: absolute;
+    left: 20px;
+    top: 320px;
+}
+#domain_name{
+    color: grey;
+    position: absolute;
+    left: 55px;
+    top: 320px;
+}
+#box{
+    position: absolute;
+    background-color: #f2f2f2;
+    width: 348px;
+    height:50px;
+    left: 0px;
+    bottom: 0px;
+}
+#icon1{
+    position: absolute;
+    display: inline;
+    color: grey;
+    top: 10px;
+    right: 20px;
+   
+
+}
+#icon2{
+    position: absolute;
+    display: inline;
+    color: grey;
+    top: 10px;
+    right: 60px;
+}
+#icon3{
+    position: absolute;
+    display: inline;
+    color: grey;
+    top: 10px;
+    right: 100px;
+}
+#icon4{
+    position: absolute;
+    display: inline;
+    color: grey;
+    top: 10px;
+    right: 140px;
+}
+#icon1:hover{
+    color: orange;
+}
+#icon2:hover{
+    color: orange;
+}
+#icon3:hover{
+    color: orange;
+}
+#icon4:hover{
+    color: orange;
+}
+#textarea{
+   margin:30px;
+    margin-right:60px;
+    background-color: #f2f2f2;
+    width: 660px;
+    padding: 20px;
+}
+#form1{
+    float: right;
+    margin-right: 400px;
+}
+#fields{
+    float: left;
+    margin-left: 30px;
+    color: grey;
+    font-size: 18px;
+}
+.send_m{
+      float: right;
+      margin-right: 70px;
+      background-color: #edac15;
+      width: 200px;
+      height: 60px;
+      text-align: center;
+      border: 1px solid black;
+}
+  #send:hover{
+     background-color: #be890e;
+  }
+  .send_m a{
+      position: relative;
+      top: 20px;
+      color: white;
+      font-size: 20px; 
+      text-align: center;
+  }
+  #container2{
+    float: left;
+    margin-left: 280px;
+    margin-top: 100px;
+    width:250px;
+    height: 430px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-left-color: lightgrey;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: lightgrey;
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-color: lightgrey;  
+}
+#tokyo_img{
+    position: absolute;
+    left: 0px;
+    width: 250px !important;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-color: #edac15;
+}
+#location2{
+    color: grey;
+    float: left;
+    text-align: left;
+    right: 300px;
+    margin-top: 40px;
+}
+#card_address2{
+    color: grey;
+    float: left;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+#border10{
+    position: relative;
+    top: 130px;
+    width: 220px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#phone3{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 290px;
+}
+#phone_number_3{
+    position: absolute;
+    top: 290px;
+    left: 55px;
+    color: grey;
+}
+#border11{
+    position: relative;
+    top: 170px;
+    width: 220px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#envelope3{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 360px;
+   
+}
+#e-mail236{
+    color: grey;
+    position: absolute;
+    left: 55px;
+    top: 365px;
+}
+#tokyo_branch{
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    background-color: #edac15;
+    width:120px;
+    height: 25px;
+}
+#tokyo_branch2{
+    color: white;
+    text-align: center;
+}
+#container3{
+    float: left;
+    margin-left: 60px;
+    margin-top: 95px;
+    width:250px;
+    height: 430px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-left-color: lightgrey;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: lightgrey;
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-color: lightgrey;  
+}
+#london_img{
+    position: absolute;
+    left: 0px;
+    width: 250px !important;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-color: #edac15;
+}
+#location2{
+    color: grey;
+    float: left;
+    text-align: left;
+    right: 300px;
+    margin-top: 40px;
+}
+#card_address2{
+    color: grey;
+    float: left;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+#border10{
+    position: relative;
+    top: 130px;
+    width: 220px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#phone3{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 290px;
+}
+#phone_number_3{
+    position: absolute;
+    top: 290px;
+    left: 55px;
+    color: grey;
+}
+#border11{
+    position: relative;
+    top: 170px;
+    width: 220px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#envelope3{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 360px;
+   
+}
+#e-mail236{
+    color: grey;
+    position: absolute;
+    left: 55px;
+    top: 365px;
+}
+#london_branch{
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    background-color: #edac15;
+    width:120px;
+    height: 25px;
+}
+#london_branch2{
+    color: white;
+    text-align: center;
+}
+#container4{
+    float: left;
+    margin-left: 60px;
+    margin-top: 95px;
+    width:250px;
+    height: 430px;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-left-color: lightgrey;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: lightgrey;
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    border-bottom-color: lightgrey;  
+}
+#paris_img{
+    position: absolute;
+    left: 0px;
+    width: 250px !important;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    border-bottom-color: #edac15;
+}
+#location2{
+    color: grey;
+    float: left;
+    text-align: left;
+    right: 300px;
+    margin-top: 40px;
+}
+#card_address2{
+    color: grey;
+    float: left;
+    padding-left: 20px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+#border10{
+    position: relative;
+    top: 130px;
+    width: 220px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#phone3{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 290px;
+}
+#phone_number_3{
+    position: absolute;
+    top: 290px;
+    left: 55px;
+    color: grey;
+}
+#border11{
+    position: relative;
+    top: 170px;
+    width: 220px;
+    border-top-style: solid;
+    border-top-width:2px;
+    border-top-color: #f2f2f2;
+}
+#envelope3{
+    color: grey;
+    position: absolute;
+    left: 15px;
+    top: 360px;
+   
+}
+#e-mail236{
+    color: grey;
+    position: absolute;
+    left: 55px;
+    top: 365px;
+}
+#paris_branch{
+    position: absolute;
+    top: 110px;
+    left: 40px;
+    background-color: #edac15;
+    width:120px;
+    height: 25px;
+}
+#paris_branch2{
+    color: white;
+    text-align: center;
+}
+#container5{
+    float: left;
+    margin-left: 60px;
+    margin-top: 155px;
+    width:250px;
+    height: 300px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightgrey;
+   }
+#opening_time{
+    position: absolute;
+    bottom: 310px;
+    font-size: 26px;
+}
+#monday{
+    float: left;
+    color: grey;
+    margin: 10px;
+}
+#o_hours{
+    color: grey;
+    float:left;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#tuesday{
+    float: left;
+    color: grey;
+    margin: 10px;
+}
+#o_hours2{
+    color: grey;
+    float:left;
+    margin-top: 10px;
+    margin-left: 47px;
+}
+#wednesday{
+    float: left;
+    color: grey;
+    margin: 10px;
+}
+#o_hours3{
+    color: grey;
+    float:left;
+    margin-top: 10px;
+    margin-left: 27px;
+}
+#thursday{
+    float: left;
+    color: grey;
+    margin: 10px;
+}
+#o_hours4{
+    color: grey;
+    float:left;
+    margin-top: 10px;
+    margin-left: 42px;
+}
+#friday{
+    float: left;
+    color: grey;
+    margin: 10px;
+}
+#o_hours5{
+    color: grey;
+    float:left;
+    margin-top: 10px;
+    margin-left: 61px;
+}
+#saturday{
+    float: left;
+    color: grey;
+    margin: 10px;
+}
+#o_hours6{
+    color: grey;
+    float:left;
+    margin-top: 10px;
+    margin-left: 44px;
+}
+#sunday{
+    float: left;
+    color: black;
+    margin: 10px;
+}
+#o_hours7{
+    color: black;
+    float:left;
+    margin-top: 10px;
+    margin-left: 49px;
+}
+#footer1{
+    float: left;
+    margin-top: 100px;
+    width: 1900px;
+    height: 380px;
+    background-color: #f2f2f2;
+}
+#f_img{
+    float: left;
+    margin-top: 80px;
+    margin-left: 270px;
+}
+#f_text{
+    position: absolute;
+    color: grey;
+    width: 320px;
+    top:190px;
+}
+#f_extras{
+    float: left;
+    font-size: 24px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    
+   
+}
+#f_ul_1 ul{
+    float: left;
+    margin-top: 80px;
+    margin-left: 120px;
+    padding: 5px;
+}
+#f_ul_1 ul li {
+    list-style: none;
+    color: grey;
+    padding: 1px;
+}
+#f_ul_1 ul li a{
+    color: grey;
+}
+#f_ul_1 ul li {
+    color: black;
+
+}
+#f_services{
+    float: left;
+    font-size: 24px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    
+   
+}
+#f_ul_2 ul{
+    float: left;
+    margin-top: 80px;
+    margin-left: 120px;
+    padding: 5px;
+}
+#f_ul_2 ul li {
+    list-style: none;
+    color: grey;
+    padding: 1px;
+}
+#f_ul_2 ul li a{
+    color: grey;
+}
+#f_ul_2 ul li {
+    color: black;
+
+}
+#f_contact{
+    position: relative;
+    font-size: 24px;
+    margin-bottom: 5px;
+    font-weight: bold;
+    
+   
+}
+#f_ul_3 ul{
+    float: left;
+    margin-top: 80px;
+    margin-left: 120px;
+    padding: 5px;
+}
+#f_ul_3 ul li {
+    list-style: none;
+    color: grey;
+    padding: 1px;
+}
+#f_ul_3 ul li a{
+    color: grey;
+}
+#f_ul_3 ul li {
+    color: black;
+
+}
+#location3{
+    float: left;
+    top: 120px;
+}
+#card_address3{
+    float: left;
+    margin-left: 15px;
+}
+#phone4{
+    float: left;
+    margin-top:5px;
+    color: black;
+
+}
+#phone_number_4{
+    float: left;
+    margin-left: 10px;
+}
+#envelope4{
+    clear: both;
+    float: left;
+    color: black;
+}
+#e-mail1237{
+    float: left;
+    margin-left: 10px;
+}
+#compass2{
+    clear: both;
+    float: left;
+}
+#domain_name2{
+float: left;
+margin-left: 10px;
+}
+#something{
+    position: relative;
+    top: 250px;
+    right: 490px;
+}
+#visa{
+    float: left;
+    margin-top:10px;
+    margin-lefT: 750px;
+    color: grey;
+}
+#master_card{
+    float: left;
+    margin-top:10px;
+    margin-lefT: 10px;
+    color: grey;
+}
+#american{
+    float: left;
+    margin-top:10px;
+    margin-lefT: 10px;
+    color: grey;
+}
+#paypal{
+    float: left;
+    margin-top:10px;
+    margin-lefT: 10px;
+    color: grey;
+}
+#foot0{
+    clear: both;
+    float: left;
+    margin-top: 10px;
+    text-align: right;
+    background-color: #f2f2f2;
+}
+#f_text1{
+    padding: 5px;
+    color: grey;
+}
+#foot1{
+    float:left;
+    margin-top: 10px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    text-align: center;
+}
+#rights{
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:1600px)
+{
+    #another{
+        float: left;
+        margin-left: 0px;
+        margin-top: 800px;
+    }
+   
+}
+@media only screen and (max-width:1000px) {
+    #top0{
+    width: 50%;
+    text-align: center; 
+}
+    #top1{               
+    width: 50%;
+}
+#header1{
+    display:none;
+}
+#slider_2{
+    width:100%;
+}
+#settings{
+    display:none;
+}
+#container1{
+    float: left;
+    margin: 0px;
+    width: 100%;
+}
+#border1{
+    width: 100%;
+}
+#border2{
+    width:100%
+}
+#border3{
+    width:100%
+}
+#box{
+    width: 100%;
+}
+
+#footer1{
+    height: auto;
+}
+#visa{
+    float: left;
+    margin-left: 0px;
+}
+
+    #request{
+        display: none;
+    }
+    .text{
+        display: none;
+    }
+    #textarea{
+        width: 50%;
+    }
+    #container222{
+        float: left;
+        margin-left: 0px;
+    }
+    #container223{
+        float: left;
+        margin-left: 0px;
+    }
+    #con222{
+        float: left;
+        margin-left: 0px;
+    }
+    #ul_d_nav{
+        display: none;
+    }
+    #border222{
+        display: none;
+    }
+    #angles{
+        float: left;
+        margin-left: 0px;
+    }
+    #article223{
+        float: left;
+        margin-lefT: 0px;
+        width: auto;
+    }
+    #n_img_1{
+    float: left;
+    margin-left: 0px;
+width:50%;
+    }
+    #n_img_2{
+        float: left;
+    margin-left: 0px;
+width:50%;
+    }
+    #n_img_3{
+        float: left;
+    margin-left: 0px;
+width:50%;
+    }
+    #n_img_4{
+        float: left;
+    margin-left: 0px;
+width:50%;
+    }
+}
+@media only screen and (max-width:730px){
+#top0{
+    width: 100%;
+}
+#top1{
+    width: 100%;
+}
+#request2{
+    width: 100%;
+}
+#background{
+    float:left;
+    margin: 0px;
+}
+
+#form1{
+    float: left;
+    width: 100%;
+}
+#container2{
+    float: left;
+    margin: 0px;
+}
+#container3{
+    float: left;
+    margin: 0px;
+}
+#container4{
+    float: left;
+    margin: 0px;
+}
+#container5{
+    float: left;
+    margin: 0px;
+    margin-top: 60px;
+}
+#f_img{
+    float: left;
+    margin-left: 0px;
+}
+#f_ul_1{
+    float: left;
+    margin-left: 0px;
+    margin-top: 20px;
+    width: 100%;
+}
+#f_ul_3{
+    float: left;
+    margin-left: 0px;
+    margin-top: 20px;
+    width: 100%;
+}
+    #n_img_1{
+    float: left;
+    margin-left: 0px;
+    width:100%;
+    }
+    #n_img_2{
+        float: left;
+    margin-left: 0px;
+width:100%;
+    }
+    #n_img_3{
+        float: left;
+    margin-left: 0px;
+width:100%;
+    }
+    #n_img_4{
+        float: left;
+    margin-left: 0px;
+width:100%;
+    }
+#another2{
+    float: left;
+    margin-left: 0px;
+}
+#another3{
+    float: left;
+    margin-left: 0px;
+}
+#something_aside{
+    display: none;
+}
+.contact_us_2{
+    float: left;
+    margin-left: 0px;
+}
+#signature{
+    display: none;
+}
+#partners{
+    display: none;
+}
+
+
+}
+@media only screen and (max-width:320px){
+#top0{
+    width:320px;
+}
+#top1{
+    width:320px;
+}
+
+#slider_2{
+    width:320px;
+}
+#menu{
+    width:320px;
+}
+#background{
+    display:none;
+}
+#some_{
+    width: 320px;
+}
+#container1{
+    width: 320px;
+}
+#icon1{
+    width:25%;
+}
+#icon2{
+    width:25%;
+}
+#icon3{
+    width:25%;
+}
+#icon4{
+    width:25%;
+}
+#send{
+    padding-left: 0px;
+    float: left;
+    width: 320px;
+}
+}
+#tokyo_img{
+    float: left;
+    width: 300px;   
+}
+
+
+@media only screen and (min-width:999px){
+    #menu{
+        display:none;
+    }
+    #request2{
+        display: none;
+    }
+    #container_18{
+    display: none;
+   
+}
+
+}
